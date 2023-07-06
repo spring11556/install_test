@@ -1,6 +1,6 @@
-# install_test
+# centos6.x  i686/x86_64  install  devtoolset-x (upgrade GCC)
 centos6.x  i686/x86_64  install  devtoolset-x (upgrade GCC)
-## centos6.x  i686/x86_64  install  devtoolset-x (upgrade GCC)
+
 
 Let's take the example of installing devtoolset-4 on CentOS 6.10 i686, and adjust the corresponding parameters and paths for other installations.
 
